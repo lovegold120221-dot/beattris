@@ -1,0 +1,8 @@
+{
+  "name": "Beatrice",
+  "description": "Luxury private executive voice assistant with Google Workspace Sync",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
